@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6l0006/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眾事分阿毘曇論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1541.xml
+    old_id: T26n1541
+hash: sha256:040a7d63acede4e5f62feb3f4c16b8be3d359418db8d1120405884d3024053e0

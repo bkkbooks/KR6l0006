@@ -1,0 +1,270 @@
+canonical_identifier: bkk:krp/KR6l0006/T/v1
+canonical_location: https://kanripo.org/bkk/KR6l0006/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 眾事分阿毘曇論
+  identifiers:
+    krp: KR6l0006
+    cbeta: T26n1541
+    cbeta_old_id: T26n1541
+    authorityid: CA0004111
+    json_key: T1541
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T26/T26n1541.xml
+    old_id: T26n1541
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6l0006_000-T.yaml, hash: 'sha256:040a7d63acede4e5f62feb3f4c16b8be3d359418db8d1120405884d3024053e0'}
+  - {seq: 1, filename: KR6l0006_001-T.yaml, hash: 'sha256:ca267da21fcca49186ed58efe04600816d82dc5b49de9548294379c907915183'}
+  - {seq: 2, filename: KR6l0006_002-T.yaml, hash: 'sha256:6f012755bf70df64c67a6606d2c6bd4444881159142768eb866671f05014c4fb'}
+  - {seq: 3, filename: KR6l0006_003-T.yaml, hash: 'sha256:a95aa872b0f871851236bcba90d17c066558a53ad9c65f63a92fb18dfc759461'}
+  - {seq: 4, filename: KR6l0006_004-T.yaml, hash: 'sha256:d51e423b3c095bf3a331548a858a2e6480e0398e154ce8f5df9fc58906e47d5c'}
+  - {seq: 5, filename: KR6l0006_005-T.yaml, hash: 'sha256:ac9f6202a97f4e88275f932f8264c38359a776350727858e8e8b2099586185de'}
+  - {seq: 6, filename: KR6l0006_006-T.yaml, hash: 'sha256:5b41a80c3b4b8541f2e5d0f91d0b8f5ec64a0dd1779f2d01ccaef4143b347853'}
+  - {seq: 7, filename: KR6l0006_007-T.yaml, hash: 'sha256:fdd8dcaa2fb5fc05cd4c6521a40c70bb759ab857ce425f30784ad0036e74e9be'}
+  - {seq: 8, filename: KR6l0006_008-T.yaml, hash: 'sha256:943dc95384b1c95b89dde0683b93adb9e8b99a0e12276d55a5ef3382865cc0f9'}
+  - {seq: 9, filename: KR6l0006_009-T.yaml, hash: 'sha256:a26a64c4295641496b92f6b299d8635f2c4d7d0628e75a3cb132003e582d8315'}
+  - {seq: 10, filename: KR6l0006_010-T.yaml, hash: 'sha256:f09d7c1e5a35c9dcca7f756e8e675212140dcdab995b41b0739bc03c34d643f9'}
+  - {seq: 11, filename: KR6l0006_011-T.yaml, hash: 'sha256:358b5b0e7f726c88a502bf627aa87aaec021ab031a606d56c8a7e54b2f1df584'}
+  - {seq: 12, filename: KR6l0006_012-T.yaml, hash: 'sha256:a63b4971701588467aa570d8701ca2c8def7ddcad755645be7c03ebc27aa5590'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6l0006_000-T.markers.yaml, hash: 'sha256:aadcae8c5eeb44e6e8a7d9a00b07dc8d2d602f28a8d0c02ff168799fce6e773d'}
+  - {seq: 1, role: markers, filename: assets/KR6l0006_001-T.markers.yaml, hash: 'sha256:d7e1880557f1a174c732ed8545b48ab066d354a3454cdbfdd77a4dcbe14d8969'}
+  - {seq: 2, role: markers, filename: assets/KR6l0006_002-T.markers.yaml, hash: 'sha256:b1e30c54b1a75cdf25a19bf96446fdcf8c5766b8aacb6c29fecc938e4f8c6d24'}
+  - {seq: 3, role: markers, filename: assets/KR6l0006_003-T.markers.yaml, hash: 'sha256:757234a0462c6d3404eb4fe61eb055340b72b7c7700b690ddd539e2755f31e87'}
+  - {seq: 4, role: markers, filename: assets/KR6l0006_004-T.markers.yaml, hash: 'sha256:8c1aea8facf7a64cb30b12a76647e033129a4814d06c74a65eef1050a699c7e7'}
+  - {seq: 5, role: markers, filename: assets/KR6l0006_005-T.markers.yaml, hash: 'sha256:14b1f85864d1bd98c124c897f0e2d669256911d166c3f651828bc4cc657d6097'}
+  - {seq: 6, role: markers, filename: assets/KR6l0006_006-T.markers.yaml, hash: 'sha256:0f3602c0ae8d195667fb8c44df298025796225e3ba6c8749536ba38fe14ef7ac'}
+  - {seq: 7, role: markers, filename: assets/KR6l0006_007-T.markers.yaml, hash: 'sha256:59f518845950a76338ade08544c535c3e50f03a9b45932e68f0975f183ba4a48'}
+  - {seq: 8, role: markers, filename: assets/KR6l0006_008-T.markers.yaml, hash: 'sha256:83a04b9513860f312e1deea162077e221b7d1fefb06aef55d5cf3039433ebd67'}
+  - {seq: 9, role: markers, filename: assets/KR6l0006_009-T.markers.yaml, hash: 'sha256:fd2ab3f19f0da77df979287280292b6646051977965d54c9b50445b446270e5e'}
+  - {seq: 10, role: markers, filename: assets/KR6l0006_010-T.markers.yaml, hash: 'sha256:09652278de0d4851c2709f6a515622eda263c656d1cca70618fdc2a6cc16d732'}
+  - {seq: 11, role: markers, filename: assets/KR6l0006_011-T.markers.yaml, hash: 'sha256:86d3a033a25f0a514aa5451cde67b62053d9cafc4bd49f440f087c6ca570ddf5'}
+  - {seq: 12, role: markers, filename: assets/KR6l0006_012-T.markers.yaml, hash: 'sha256:84d1e8e7124a00482a2017c53609be806b3ace1b226087ea4970900c89c21029'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6l0006_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5776
+  label: 眾事分阿毘曇論卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0006_T_001-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 1 五法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6l0006_T_001-mulu-2
+    span:
+    - body
+    - 2575
+    - 2575
+  label: 2 分別智品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0006_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7044
+  label: 眾事分阿毘曇論卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0006_T_002-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 3 分別諸入品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6l0006_T_002-mulu-2
+    span:
+    - body
+    - 3211
+    - 3211
+  label: 4 分別七事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0006_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10066
+  label: 眾事分阿毘曇論卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6l0006_T_003-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 5 分別諸使品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0006_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6931
+  label: 眾事分阿毘曇論卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0006_T_004-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 6 分別攝品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6l0006_T_004-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6l0006_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6910
+  label: 眾事分阿毘曇論卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6l0006_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6209
+  label: 眾事分阿毘曇論卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6l0006_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 5385
+  label: 眾事分阿毘曇論卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0006_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7789
+  label: 眾事分阿毘曇論卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0006_T_008-mulu-1
+    span:
+    - body
+    - 21
+    - 21
+  label: 7 千問論品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6l0006_T_008-mulu-2
+    span:
+    - body
+    - 21
+    - 21
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6l0006_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 7616
+  label: 眾事分阿毘曇論卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6l0006_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7517
+  label: 眾事分阿毘曇論卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6l0006_T_011-juan-start
+    span:
+    - body
+    - 0
+    - 6680
+  label: 眾事分阿毘曇論卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0006_T_012-juan-start
+    span:
+    - body
+    - 0
+    - 9363
+  label: 眾事分阿毘曇論卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6l0006_T_012-mulu-1
+    span:
+    - body
+    - 4584
+    - 4584
+  label: 8 擇品
+  type: mulu
+  level: 1
+hash: sha256:443913bfaa0d73153dbad349424456917612d6b38cc5bab241386652aa239b33
